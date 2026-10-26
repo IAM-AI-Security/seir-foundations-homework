@@ -1,0 +1,7 @@
+Team Name = SkyNet
+
+Spotter = John Walker and Bacchus Gudder
+
+Teammates = Alex Williams, Bacchus Gudder, Brent Johnson, John Walker, Ronnie Walker, Ronnie Baker, Wilber Kennedy, Dr. T. Hasan Johnson
+
+Days + Times when your team meets = Saturdays after class and Sundays (exact meeting times to be confirmed)
