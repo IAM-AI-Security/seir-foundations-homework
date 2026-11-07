@@ -9,8 +9,8 @@ Group details: [group_Chris.txt](group_Chris.txt)
 This folder contains my Week 2 homework for SEIR Foundations Class 8.
 
 ### Required Quiz Screenshots
-- Maarek Section 5 quiz
-- Maarek Section 6 quiz
+- [Maarek Section 5 quiz](screenshots/Maarek_Section5_quiz.jpg)
+- [Maarek Section 6 quiz](screenshots/Maarek_Section6_quiz.jpg)
 
 ### Screenshots
-Quiz screenshots will be added to the screenshots folder.
+Both quiz screenshots are included in the screenshots folder.
